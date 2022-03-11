@@ -13,3 +13,7 @@
   opacity: .7;
   position: absolute;
 }
+
+p {
+  z-value: 1;
+}
