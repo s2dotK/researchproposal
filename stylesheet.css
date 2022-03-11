@@ -10,6 +10,54 @@
   align-items: center;
 }
 
+.background2 {
+  background: #000 url("https://www.backbone-international.com/wp-content/uploads/2020/11/NA-featured-image-.png");
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  position: relative;
+  z-index: 0;
+  align-content: center;
+  align-items: center;
+}
+
+.background3 {
+  background: #000 url("https://www.statnews.com/wp-content/uploads/2021/07/Visitors-1024x576.jpg");
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  position: relative;
+  z-index: 0;
+  align-content: center;
+  align-items: center;
+}
+
+.background4 {
+  background: #000 url("https://healthcare.utah.edu/publicaffairs/news/2020/images/coronavirus-hospital-signs.jpg");
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  position: relative;
+  z-index: 0;
+  align-content: center;
+  align-items: center;
+}
+
+.background5 {
+  background: #000 url("https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2020/04/27/hzward0427c.jpg?VersionId=1Sz1WK7m7fEZjPV2TZ3VqBpCSDlAhKsf&itok=nlS3Hhc_");
+  color: #fff;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  position: relative;
+  z-index: 0;
+  align-content: center;
+  align-items: center;
+}
+
 .layer {
   width: 100%;
   height: 100%;
