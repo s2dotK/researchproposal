@@ -20,9 +20,8 @@
 }
 
 .toptext {
-  position: absolute;
   color: #FFFFFF;
-  z-index: 3;
+  z-index: 2;
 }
 
 * {
@@ -118,5 +117,3 @@ body {
     display: flex;
   }
 }
-  
-
