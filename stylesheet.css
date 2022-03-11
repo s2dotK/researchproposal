@@ -1,6 +1,6 @@
 .background1 {
   background: url("https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/Xkc_9Ay9IGREIHTdu7_ipP_YMEw=/1660x0/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/6QZAEXCDRFEIZELRPDNH5Y2UEQ.JPG");
-  position: relative;
+  box-shadow: inset 0 0 0 1000px #000000cc;
 }
 
 .layer {
