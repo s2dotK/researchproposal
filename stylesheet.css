@@ -3,9 +3,6 @@
   color: #fff;
   height: 100%;
   width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   position: relative;
 }
 
@@ -15,32 +12,4 @@
   background: #000;
   opacity: .7;
   position: absolute;
-}
-
-.background2 {
-  background: #000 url("");
-  color: #fff;
-  height: 100%;
-  width: 100%;
-  position: relative;
-}
-
-.background3 {
-  background: #000 url("");
-  color: #fff;
-  height: 100%;
-  width: 100%;
-  position: relative;
-}
-
-.background4 {
-  background: #000 url("");
-  color: #fff;
-  height: 100%;
-  width: 100%;
-  position: relative;
-}
-
-p {
-  z-index: 1;
 }
