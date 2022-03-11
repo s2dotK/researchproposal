@@ -19,6 +19,9 @@
   z-index: 1;
 }
 
+.toptext {
+  z-index: 2;
+}
 
 * {
   box-sizing: border-box;
