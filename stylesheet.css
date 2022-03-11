@@ -38,3 +38,6 @@
   position: absolute;
 }
 
+p {
+  z-index: 1;
+}
